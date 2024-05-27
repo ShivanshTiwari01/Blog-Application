@@ -23,7 +23,7 @@ A simple blog application built with Python Django that allows users to view pos
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/ShivanshTiwari01/Blog-Application.git
-   cd django-blog
+   cd Blog-Application
    ```
 
 2. **Create and activate a virtual environment:**

@@ -58,39 +58,6 @@ A simple blog application built with Python Django that allows users to view pos
 
 3. **Access the admin interface at** `http://127.0.0.1:8000/admin` **to manage posts, categories, and comments.**
 
-## Project Structure
-
-```
-Blog Application/
-│
-├── blog_project/
-│   ├── __init__.py
-│   ├── settings.py
-│   ├── urls.py
-│   ├── wsgi.py
-│   └── asgi.py
-│
-├── blog_app/
-│   ├── migrations/
-│   ├── templates/
-│   │   └── blog/
-│   │       ├── base.html
-│   │       ├── post_list.html
-│   │       └── post_detail.html
-│   ├── __init__.py
-│   ├── admin.py
-│   ├── apps.py
-│   ├── models.py
-│   ├── views.py
-│   ├── forms.py
-│   ├── urls.py
-│   └── tests.py
-│
-├── manage.py
-├── requirements.txt
-└── README.md
-```
-
 ## Contributing
 
 Contributions are welcome! Please submit a pull request or open an issue for any changes.

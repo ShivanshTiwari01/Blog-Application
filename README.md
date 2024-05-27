@@ -24,12 +24,16 @@ A simple Blog Application built with Python Django that allows users to view pos
    ```bash
    git clone https://github.com/yourusername/django-blog.git
    cd django-blog
+   ```
 
 ## Create and activate a virtual environment:
-
-  - python -m venv env
-  - source env/bin/activate  # On Windows use `env\Scripts\activate`
+   ```bash
+    python -m venv env
+    source env/bin/activate  # On Windows use `env\Scripts\activate`
+   ```
 
 ## Install the required packages:
-
-  - pip install -r requirements.txt
+   
+  ```bash
+    pip install -r requirements.txt
+   ```
